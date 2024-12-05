@@ -1,6 +1,6 @@
 # Biruk Simachew
 
-Welcome to my GitHub portfolio! I'm Biruk Simachew, a recent graduate with a degree in Electrical and Computer Engineering from Debre Markos University. Hopefully the details below will describe me more than my commits 😁 this account was created back in 2018 but there are repositories less than average age of the account commited don't judge I'll try to commit my project's here it's my new year resolution 🙈
+Welcome to my GitHub portfolio! I'm Biruk Simachew, a recent graduate with a degree in Electrical and Computer Engineering from Debre Markos University. Hopefully the details below will describe me more than my commits 😁 this account was created back in 2018 but there are repositories less than average age of the account, don't judge I'll try to commit my project's here it's my new year resolution 🙈
 
 ## About Me
 
