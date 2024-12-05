@@ -49,7 +49,7 @@ October 2023 – January 2024
 - **Description**: A clone of Debre Birehan University's official website to demonstrate the performance of React applications.
 - **Technologies**: React.js
 
-###Resistor Color Code Converter
+### Resistor Color Code Converter
 -  **Description**: A simple program used to automate the resistor color code reading and the project was done to experment Multidimentional arrayMethod as a class project.
 -  **Technologies**: Java 
 
